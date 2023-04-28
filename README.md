@@ -1,0 +1,1 @@
+# gizzty.nvim
